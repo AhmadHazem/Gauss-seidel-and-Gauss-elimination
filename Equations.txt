@@ -1,0 +1,24 @@
+3
+Gaussian-elimination
+10*a+2*b-c=27
+-3*a-6*b+2*c=-61.5
+a+b+5*c=-21.5
+
+3
+Gaussian-elimination
+3*a+2*b+c=6
+2*a+3*b=7
+2*c=4
+
+3
+Gaussian-seidel
+10*a+2*b-c=27
+-3*a-6*b+2*c=-61.5
+a+b+5*c=-21.5
+
+4
+Gaussian-seidel
+3*a+2*b+c+d=6
+2*a+3*b-3*d=7
+2*c-d=4
+a+b-c+3*d =12
